@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é o backend da aplicação Clínica Mentalize, uma plataforma para gerenciamento de clínicas de psicologia. O sistema permite o gerenciamento de usuários (psicólogos e pacientes), agendamentos de consultas e prontuários médicos.
+Este é o backend da aplicação Clínica Mentalize. O sistema permite o gerenciamento de usuários (psicólogos e pacientes), agendamentos de consultas e prontuários médicos.
 
 ## Funcionalidades
 
@@ -25,8 +25,8 @@ Este é o backend da aplicação Clínica Mentalize, uma plataforma para gerenci
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/clinica-mentalize.git
-   cd clinica-mentalize/backend
+   git clone [https://github.com/natachasiqueira/backend_projetointegrador2]
+   cd backend_projetointegrador2
    ```
 
 2. Crie e ative um ambiente virtual:
